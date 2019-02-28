@@ -112,7 +112,7 @@ Trainable params: 134,368,179
 Non-trainable params: 92,416
 ```
 
-##结果示例
+## 结果示例
 
 ![示例1](/imgs_test/fig1-res.png "")
 ![示例2](/imgs_test/fig2-res.png "")
